@@ -56,4 +56,21 @@ $ npm start                                                                     
 
 [ Item { name: 'Aged Brie', sellIn: 99, quality: 100 }
 ```
+## Installing Dependencies
+
+From within the root directory:
+
+```sh
+npm install
+```
+## Testing
+
+Test suite is built with **Jasmine**. To run all tests:
+
+```sh
+npm test
+```
+
+
+
 
